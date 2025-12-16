@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(1, 1, 12);
+    font-family: "Outfit", sans-serif;
+    color: white;
+}
+.head{
+    color: white ;
+    font-size: 90px;
+    font-weight: 200px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    
+}
+.head span{
+    color: rgb(13, 19, 71);
+    font-size: 90px;
+    font-weight: 200px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
+img{
+   width: 300px;
+   height: 400px;
+   object-fit: cover;
+   vertical-align: middle;
+   margin-left: 40px;
+}
+.about{
+    padding: 0 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 5rem;
+}
+.intro {
+    color: rgb(177, 202, 223);
+    flex: 1;
+    font-size: 20px;
+    
+}
+.gap{
+    margin-top: 15px ;
+}
+.gap1{
+    margin-top: 15px ;
+}
+.gap2{
+    margin-top: 15px ;
+}
+.gap3{
+    margin-top: 15px ;
+}
+.gap4{
+    margin-top: 15px ;
+}
+
+.head2{
+    color: rgb(13, 19, 71);
+    font-size: 50px;
+    font-weight: 150px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 80px;
+    
+}
+.container{
+    height: 200px;
+    width: 900px;
+    background-color: rgb(3, 3, 24);
+    margin-top: 70px;
+     margin-left: 220px;
+     color: rgb(177, 202, 223);
+     border-radius: 10px;
+}
+.h3{
+    font-size: 30px;
+padding-top:  40px;
+margin-left: 50px;
+}
+.container p{
+    margin-left: 50px;
+}
+.info{
+    color: rgb(177, 202, 223);
+    margin-left: 3px;
+    margin-top: 30px;
+    
+}
+.end{
+    color: rgb(177, 202, 223);
+    margin-top: 250px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+
+
